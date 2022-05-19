@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Vinícius</h1>
-<h3 align="center">.Welcome to my playground!</h3>
+<h3 align="center">Welcome to my playground!</h3>
 
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React, Jest, NodeJs, Typescript, MySQL, AWS, Firebase**
