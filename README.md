@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lucas Vinícius</h1>
-<h3 align="center">A full stack developer from Brazil. Welcome to my playground!</h3>
+<h3 align="center">.Welcome to my playground!</h3>
+
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React, Jest, NodeJs, Typescript, MySQL, AWS, Firebase**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lucastelescastro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucastelescastro/" height="30" width="40" /></a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
